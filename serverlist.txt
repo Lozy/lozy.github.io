@@ -1,0 +1,5 @@
+{
+	"server": [
+		simu.studio:2008
+	]
+}
