@@ -1,14 +1,17 @@
 {
 	"v2.22":{
 		"imgdb": ["http://imgdb.maxpay.club"],
-		"server": "http://simu.studio/api/v1"	
+		"server": "http://simu.studio/api/v1",
+		"imgman": "http://simu.studio/site/e4u/image"
 	},
 	"testing":{
 		"imgdb": ["http://imgdb.maxpay.club"],
-		"server": "http://simu.studio:2008/api/v1"	
+		"server": "http://simu.studio:2008/api/v1",
+		"imgman": "http://simu.studio/site/e4u/image"
 	},
 	"default":{
 		"imgdb": ["http://imgdb.maxpay.club"],
-		"server": "http://simu.studio/api/v1"	
+		"server": "http://simu.studio/api/v1",
+		"imgman": "http://simu.studio/site/e4u/image"
 	}
 }
