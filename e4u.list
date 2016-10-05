@@ -8,7 +8,7 @@
 	"testing":{
 		"imgdb": ["http://imgdb.maxpay.club"],
 		"server": "http://www.simu.studio/api/v1",
-		"imgload": "http://image.simu.studio/upload.php",
+		"imgdest": "http://image.simu.studio/upload.php"
 	},
 	"default":{
 		"imgdb": ["http://imgdb.maxpay.club"],
