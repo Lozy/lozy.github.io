@@ -1,9 +1,9 @@
 {
-	"v2.22":{
+	"v2.3":{
 		"imgdb": ["http://imgdb.maxpay.club"],
-		"server": "http://simu.studio/api/v1",
-		"imgman": "http://simu.studio/site/e4u/image",
-		"capman": "http://simu.studio/captcha"
+		"server": "http://www.simu.studio:6400/api/v1",
+		"image": "http://image.simu.studio",
+		"console": "http://www.simu.studio:6400/process"
 	},
 	"testing":{
 		"imgdb": ["http://imgdb.maxpay.club"],
